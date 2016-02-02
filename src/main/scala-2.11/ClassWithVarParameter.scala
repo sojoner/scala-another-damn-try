@@ -1,0 +1,1 @@
+class ClassWithVarParameter(var description: String)
